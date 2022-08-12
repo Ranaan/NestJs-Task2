@@ -1,0 +1,125 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"username": "Ranan",
+			"password": "1234"
+		},
+		{
+			"id": 2,
+			"username": "Mona",
+			"password": "5678"
+		},
+		{
+			"id": 3,
+			"username": "Lama",
+			"password": "La125"
+		},
+		{
+			"id": 4,
+			"username": "Rana",
+			"password": "Ra21"
+		},
+		{
+			"id": 5,
+			"username": "Laila",
+			"password": "lolo2"
+		}
+	],
+	"tasks": [
+		{
+			"id": 1,
+			"title": "Design",
+			"userId": 1,
+			"statusId": 2
+		},
+		{
+			"id": 2,
+			"title": "Play",
+			"userId": 5,
+			"statusId": 1
+		},
+		{
+			"id": 3,
+			"title": "Travel",
+			"userId": 1,
+			"statusId": 1
+		},
+		{
+			"id": 4,
+			"title": "Study",
+			"userId": 1,
+			"statusId": 2
+		},
+		{
+			"id": 5,
+			"title": "Watch Movies",
+			"userId": 3,
+			"statusId": 1
+		},
+		{
+			"id": 6,
+			"title": "Learn Nestjs",
+			"userId": 4,
+			"statusId": 1
+		},
+		{
+			"id": 7,
+			"title": "Learn Piano",
+			"userId": 1,
+			"statusId": 2
+		},
+		{
+			"id": 8,
+			"title": "Meet Friends",
+			"userId": 1,
+			"statusId": 1
+		},
+		{
+			"id": 9,
+			"title": "Study",
+			"userId": 1,
+			"statusId": 2
+		},
+		{
+			"id": 10,
+			"title": "Travel",
+			"userId": 2,
+			"statusId": 1
+		},
+		{
+			"id": 11,
+			"title": "Cook",
+			"userId": 1,
+			"statusId": 1
+		},
+		{
+			"id": 12,
+			"title": "Play Tennis",
+			"userId": 4,
+			"statusId": 1
+		},
+		{
+			"id": 13,
+			"title": "Learn Violin",
+			"userId": 3,
+			"statusId": 2
+		},
+		{
+			"id": 14,
+			"title": "Play Football",
+			"userId": 2,
+			"statusId": 2
+		}
+	],
+	"status": [
+		{
+			"id": 1,
+			"title": "Completed"
+		},
+		{
+			"id": 2,
+			"title": "Pending"
+		}
+	]
+}
